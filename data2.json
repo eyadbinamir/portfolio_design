@@ -1,0 +1,67 @@
+{
+    "person": [{
+            "name": "alex ben",
+            "job": "wordpress developer",
+            "image": "imgs/avtar.jpg",
+            "rate": 3,
+            "comment": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsam maiores doloribus maxime vitae possimus."
+
+        },
+        {
+            "name": "ahmed ali",
+            "job": "wordpress developer",
+            "image": "imgs/avtar.jpg",
+            "rate": 4,
+            "comment": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsam maiores doloribus maxime vitae possimus."
+
+        },
+        {
+            "name": "mohammed salah",
+            "job": "application developer",
+            "image": "imgs/avtar.jpg",
+            "rate": 5,
+            "comment": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsam maiores doloribus maxime vitae possimus."
+
+        },
+        {
+            "name": "hakeem jamal",
+            "image": "imgs/avtar.jpg",
+            "job": "web developer",
+            "rate": 4,
+            "comment": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsam maiores doloribus maxime vitae possimus."
+
+        },
+        {
+            "name": "john McDonald",
+            "job": "web designer",
+            "image": "imgs/avtar.jpg",
+            "rate": 5,
+            "comment": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsam maiores doloribus maxime vitae possimus."
+
+        },
+        {
+            "name": "sara smith",
+            "job": "wordpress developer",
+            "image": "imgs/avtar.jpg",
+            "rate": 4,
+            "comment": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsam maiores doloribus maxime vitae possimus."
+
+        },
+        {
+            "name": "olivia robertson",
+            "job": "application developer",
+            "image": "imgs/avtar.jpg",
+            "rate": 4,
+            "comment": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsam maiores doloribus maxime vitae possimus."
+
+        },
+        {
+            "name": "carl johnson",
+            "image": "imgs/avtar.jpg",
+            "job": "web developer",
+            "rate": 3,
+            "comment": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsam maiores doloribus maxime vitae possimus."
+
+        }
+    ]
+}

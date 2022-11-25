@@ -1,0 +1,67 @@
+{
+    "person": [{
+            "name": "sami ali",
+            "job": "web designer",
+            "image": "imgs/avtar.jpg",
+            "rate": 5,
+            "comment": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsam maiores doloribus maxime vitae possimus."
+
+        },
+        {
+            "name": "ahmed mohammed",
+            "job": "wordpress developer",
+            "image": "imgs/avtar.jpg",
+            "rate": 4,
+            "comment": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsam maiores doloribus maxime vitae possimus."
+
+        },
+        {
+            "name": "hussein saleh",
+            "job": "application developer",
+            "image": "imgs/avtar.jpg",
+            "rate": 3,
+            "comment": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsam maiores doloribus maxime vitae possimus."
+
+        },
+        {
+            "name": "ali jamal",
+            "image": "imgs/avtar.jpg",
+            "job": "web developer",
+            "rate": 2,
+            "comment": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsam maiores doloribus maxime vitae possimus."
+
+        },
+        {
+            "name": "sami ali",
+            "job": "web designer",
+            "image": "imgs/avtar.jpg",
+            "rate": 5,
+            "comment": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsam maiores doloribus maxime vitae possimus."
+
+        },
+        {
+            "name": "ahmed mohammed",
+            "job": "wordpress developer",
+            "image": "imgs/avtar.jpg",
+            "rate": 4,
+            "comment": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsam maiores doloribus maxime vitae possimus."
+
+        },
+        {
+            "name": "hussein saleh",
+            "job": "application developer",
+            "image": "imgs/avtar.jpg",
+            "rate": 3,
+            "comment": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsam maiores doloribus maxime vitae possimus."
+
+        },
+        {
+            "name": "ali jamal",
+            "image": "imgs/avtar.jpg",
+            "job": "web developer",
+            "rate": 2,
+            "comment": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsam maiores doloribus maxime vitae possimus."
+
+        }
+    ]
+}
