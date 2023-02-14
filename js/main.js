@@ -146,7 +146,6 @@ moreBtn.onclick = () => {
 };
 document.addEventListener("click", (element) => {
 	if (element.target.classList.contains("less")) {
-		console.log("hi");
 		moreBtn.style.display = "flex";
 		for (let i = 0; i < 4; i++) {
 			let comment = commentsArea.children[commentsArea.children.length - 1];
